@@ -1,3 +1,5 @@
+// VARIABLE
+
 var angkaPertama = 1;
 var kataPertama = "aku makan nasi";
 var benarKah = true;
