@@ -224,3 +224,13 @@ var data = [
   },
 ]
 
+
+// 1. Tampilkan Semua data dengan format -> 
+// NAMA - USIA - ALAMAT lENGKAP
+// 2. Tampilkan Data yang Kota tinggal di Bekasi
+// 3. Tampilkan Semua alamat lengkap dari data atas
+// contoh ["Jl. itu 5 Tangerang", "Jl. apa Bekasi"]
+// 4. Tampilkan Semua data yang namanya mengandung
+// huruf 'k' baik kecil ataupun besar
+// untuk meng lower case .toLowerCase()
+// 5. Tampilkan rata2 umur data diatas (contoh = 22)
