@@ -234,3 +234,8 @@ var data = [
 // huruf 'k' baik kecil ataupun besar
 // untuk meng lower case .toLowerCase()
 // 5. Tampilkan rata2 umur data diatas (contoh = 22)
+
+// TEXT EDITOR
+// SUBLIME TEXT, VSCODE, ATOM, Notepad++
+// file.js nya di zip
+// kirim email: joisandresky@gmail.com
